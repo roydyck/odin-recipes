@@ -1,1 +1,12 @@
 /* styles.css */
+
+* {
+    background-color: rgb(33, 33, 33);
+    color: white;
+    font-family: Helvetica, Verdana, Tahoma, sans-serif;
+}
+
+p,
+li {
+    font-size: 20px;
+}
